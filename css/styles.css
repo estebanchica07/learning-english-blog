@@ -37,3 +37,12 @@ body
 p {
     font-size: 30px;
 }
+
+#footer{
+    background-color: black;
+    color: white;
+    margin: 9px;
+    padding: 5px;
+    border-radius: 10px;
+
+}
