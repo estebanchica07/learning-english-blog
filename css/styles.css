@@ -1,28 +1,30 @@
-body
-{   
+body {
     display: flex;
     background-color: black;
-    color:black;
+    color: black;
     text-align: center;
     font-family: "Arial";
     flex-direction: column;
     align-items: center;
-    
-    
+
+
 }
 
-#container{
+#container {
 
-    
+
     background-color: white;
     border: 2.5px dashed black;
     margin: 10px;
     padding: 15px;
     padding-top: 0px;
-    padding-left:0px;
-    padding-right:0px;
+    padding-left: 0px;
+    padding-right: 0px;
     max-width: 900px;
     padding-bottom: 0px;
+
+
+
 
 }
 
@@ -30,38 +32,38 @@ h1 {
     font-size: 30px;
 }
 
-#cabecera h1{
+#cabecera h1 {
     display: flex;
     font-size: 23px;
-    margin:5px;
+    margin: 5px;
     align-items: center;
-    
+
 }
 
-#cabecera{
+#cabecera {
     background-color: rgb(3, 3, 136);
     font-size: 20px;
-    box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.75);
     color: white;
-    margin:0px auto;
+    margin: 0px auto;
     text-align: left;
     padding: 8px;
     border-radius: 9px;
-    
+
 }
 
 .logo {
-    width:70px;
+    width: 70px;
 }
 
 #cabecera #tagline {
-    font-size:13px;
+    font-size: 13px;
     color: white;
     float: right;
     margin-top: -10px;
 }
 
-#post{
+#post {
     font-size: 20px;
     margin: 20px;
 }
@@ -70,14 +72,14 @@ p {
     font-size: 30px;
 }
 
-#footer{
-    background-color:  rgb(3, 3, 136);
+#footer {
+    background-color: rgb(3, 3, 136);
     color: white;
     padding: 5px;
     border-radius: 10px;
     font-size: 22px;
     margin-bottom: 0px;
 
-    
+
 
 }
