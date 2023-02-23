@@ -69,7 +69,8 @@ h1 {
 }
 
 p {
-    font-size: 30px;
+    font-size: 25px;
+    margin: 15px;
 }
 
 #footer {
@@ -79,7 +80,13 @@ p {
     border-radius: 10px;
     font-size: 22px;
     margin-bottom: 0px;
+}
 
+.teaching {
 
+    border: 5px solid rgb(3, 3, 136);
+    width: 25%;
+    margin: 0px;
+    border-radius: 20px;
 
 }
