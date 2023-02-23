@@ -90,3 +90,12 @@ p {
     border-radius: 20px;
 
 }
+
+.explication {
+    font-weight: bold;
+}
+
+.satisfaction {
+    font-style: italic;
+    font-size: 20px;
+}
