@@ -14,6 +14,7 @@ In this course we saw a lot of things:
 * Freddy's Multiple personalities
 * Created by the incredible Platzi team
 * Includes some examples on Linux, Windows and MAC.
+* Available for all ages.
 
 
 And as a friendly reminder:
