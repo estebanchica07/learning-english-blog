@@ -22,6 +22,7 @@ body {
     padding-right: 0px;
     max-width: 900px;
     padding-bottom: 0px;
+    border-radius: 9px;
 
 
 
@@ -80,6 +81,7 @@ p {
     border-radius: 10px;
     font-size: 22px;
     margin-bottom: 0px;
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.75);
 }
 
 .teaching {
@@ -87,7 +89,7 @@ p {
     border: 5px solid rgb(3, 3, 136);
     width: 25%;
     margin: 0px;
-    border-radius: 20px;
+    border-radius: 50px;
 
 }
 
