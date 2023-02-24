@@ -12,6 +12,8 @@ In this course we saw a lot of things:
 * The true love for good practices
 * Crazy teaches tricks
 * Freddy's Multiple personalities
+* Created by the incredible Platzi team
+
 
 And as a friendly reminder:
 If you got here, don't take it seriously ^^This README.md is a joke^^ and it was designed just as an example, so it´s better that you keep on with the course. 
