@@ -14,4 +14,4 @@ In this course we saw a lot of things:
 * Freddy's Multiple personalities
 
 And as a friendly reminder:
-If you get here, don't be so serious ^^This README.md is a joke^^. Designed just as an example. It´s better that you keep on with the course. 
+If you got here, don't take it seriously ^^This README.md is a joke^^ and it was designed just as an example, so it´s better that you keep on with the course. 
