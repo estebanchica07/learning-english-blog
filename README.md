@@ -13,6 +13,7 @@ In this course we saw a lot of things:
 * Crazy teaches tricks
 * Freddy's Multiple personalities
 * Created by the incredible Platzi team
+* Includes some examples on Linux, Windows and MAC.
 
 
 And as a friendly reminder:
